@@ -1,6 +1,6 @@
-# Will You Be My Valentine? 
+# Will You Be My Wife? 
 
-This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration.
+This project is designed to be an interactive webpage to ask someone to be your wife. Please use this code as inspiration.
 ---
 ## Respect Open-Source
 I built this for **fun & learning**. If you fork or modify it:  
@@ -58,4 +58,3 @@ This project consists of a simple webpage with a "Yes" and "No" button. When the
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
